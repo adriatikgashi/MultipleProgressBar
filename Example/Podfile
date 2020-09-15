@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MultipleProgressBar_Example' do
+  pod 'MultipleProgressBar', :path => '../'
+
+  target 'MultipleProgressBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

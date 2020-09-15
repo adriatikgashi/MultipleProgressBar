@@ -1,0 +1,16 @@
+PODS:
+  - MultipleProgressBar (0.1.0)
+
+DEPENDENCIES:
+  - MultipleProgressBar (from `../`)
+
+EXTERNAL SOURCES:
+  MultipleProgressBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MultipleProgressBar: 6d67e7049b58706cd2540ef04815b0da84c784c3
+
+PODFILE CHECKSUM: fa6f87a116445e68bfd27a2a068da9b9d5a9b0ec
+
+COCOAPODS: 1.9.3

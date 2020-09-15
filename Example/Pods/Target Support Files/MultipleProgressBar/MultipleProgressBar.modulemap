@@ -1,0 +1,6 @@
+framework module MultipleProgressBar {
+  umbrella header "MultipleProgressBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
