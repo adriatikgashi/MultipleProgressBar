@@ -1,5 +1,4 @@
 import XCTest
-import MultipleProgressBar
 
 class Tests: XCTestCase {
     
